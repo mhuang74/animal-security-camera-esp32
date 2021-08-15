@@ -1,5 +1,5 @@
 [submodule "edge-impulse-animal-security-camera-esp32/lib/esp32-camera"]
-	path = platformio-espidf/lib/esp32-camera
+	path = platformio-espidf/components/esp32-camera
 	url = https://github.com/espressif/esp32-camera.git
 	branch = master
 [submodule "espidf/components/esp32-camera"]

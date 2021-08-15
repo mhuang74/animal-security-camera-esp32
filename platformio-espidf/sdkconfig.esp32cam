@@ -1174,6 +1174,11 @@ CONFIG_WIFI_PROV_AUTOSTOP_TIMEOUT=30
 # CONFIG_WPA_WPS_WARS is not set
 # CONFIG_WPA_11KV_SUPPORT is not set
 # end of Supplicant
+
+#
+# Camera configuration
+#
+# end of Camera configuration
 # end of Component config
 
 #
